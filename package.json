@@ -1,0 +1,27 @@
+{
+  "name": "node-coding-challenge-pattern",
+  "version": "0.0.0",
+  "description": "A pattern for solving contest programs and coding challenges using Node.js streams",
+  "main": "solution.js",
+  "scripts": {
+    "test": "node solution.js < sample.in"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nimbus154/node-coding-challenge-pattern"
+  },
+  "keywords": [
+    "contest",
+    "challenge",
+    "streams"
+  ],
+  "author": "Chad Wyszynski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nimbus154/node-coding-challenge-pattern/issues"
+  },
+  "homepage": "https://github.com/nimbus154/node-coding-challenge-pattern",
+  "dependencies": {
+    "split": "~0.3.0"
+  }
+}
